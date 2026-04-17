@@ -27,6 +27,7 @@ class Second extends First//Overriding example
 public class LoadVride {
 
 	public static void main(String[] args) {
+    A a = new A();
     First F = new Second();
     F.sin();
     F.sin(2);
