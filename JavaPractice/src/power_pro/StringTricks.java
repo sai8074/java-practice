@@ -80,4 +80,4 @@ public class StringTricks {
         System.out.println(word.equals(rev));             // true — it's a palindrome!
 
     }
-}
+} v 
