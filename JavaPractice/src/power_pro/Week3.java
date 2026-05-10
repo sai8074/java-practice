@@ -8,6 +8,9 @@ public class Week3 {
      
      System.out.println(s.equals(rev));
      
+     StringBuffer Ds = new StringBuffer ("Jaii");
+     StringBuffer revv = Ds.reverse();
+     System.out.println(revv);
 	}
-
 }
+
